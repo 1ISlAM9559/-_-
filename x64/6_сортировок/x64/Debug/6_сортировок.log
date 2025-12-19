@@ -1,0 +1,10 @@
+﻿  PORAZRYD.cpp
+  prilog.cpp
+C:\Users\ASUS\Desktop\ПО МТП\6_сортировок\prilog.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  БЫСТРАЯ.cpp
+  ВСТАВ.cpp
+  ПАР_ОБМЕН.cpp
+  ПОДСЧЁТ.cpp
+  ШЕЛЛА.cpp
+  Создание кода...
+  6_сортировок.vcxproj -> C:\Users\ASUS\Desktop\ПО МТП\6_сортировок\x64\Debug\6_сортировок.exe
